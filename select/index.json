@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "いない",
+  "base_artist": "tricot",
+  "createdAt": "2025-12-03T14:04:01.960054Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いない",
+      "artist": "tricot",
+      "has_synced": false,
+      "path": "select/01_いない_tricot.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あなたが…いない -remix ver.-",
+      "artist": "栗林みな実",
+      "has_synced": false,
+      "path": "select/02_あなたが...いない_-remix_ver.-_栗林みな実.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あなたが...いない -remix ver.-",
+      "artist": "Minami Kuribayashi",
+      "has_synced": false,
+      "path": "select/03_あなたが...いない_-remix_ver.-_Minami_Kuribayashi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いない - INAI",
+      "artist": "tricot",
+      "has_synced": true,
+      "path": "select/04_いない_-_INAI_tricot.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "03. いない",
+      "artist": "tricot",
+      "has_synced": false,
+      "path": "select/05_03._いない_tricot.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あなたが…いない",
+      "artist": "栗林みな実",
+      "has_synced": true,
+      "path": "select/06_あなたが...いない_栗林みな実.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "あなたが…いない -remix ver- (instrumental)",
+      "artist": "栗林みな実",
+      "has_synced": true,
+      "path": "select/07_あなたが...いない_-remix_ver-_(instrumental)_栗林みな実.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "あなたが…いない",
+      "artist": "栗林みな実",
+      "has_synced": true,
+      "path": "select/08_あなたが...いない_栗林みな実.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "あなたが…いない",
+      "artist": "栗林みな実",
+      "has_synced": true,
+      "path": "select/09_あなたが...いない_栗林みな実.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "いない",
+      "artist": "tricot",
+      "has_synced": true,
+      "path": "select/10_いない_tricot.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "あなたが…いない -remix ver-",
+      "artist": "栗林みな実",
+      "has_synced": false,
+      "path": "select/11_あなたが...いない_-remix_ver-_栗林みな実.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いない",
+      "artist": "tricot",
+      "has_synced": false,
+      "path": "select/pl_01_いない_tricot.txt"
+    }
+  ]
+}
